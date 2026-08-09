@@ -22,12 +22,12 @@ Supports YouTube and anything else yt-dlp supports (TikTok, Instagram, X/Twitter
 ### 1. Main Dashboard
 This is the primary interface where you paste links. It features the signature tactical dark theme, pulsating gradient effects, and instant clipboard pasting.
 
-![Main Dashboard](image_1.png)
+![Main Dashboard](screenshot/image_1.png)
 
 ### 2. Active Download & Progress
 When a download is active, Velocity displays a video preview, format selection chips (1080p, 4K, MP3), and a detailed progress card with a glowing linear gradient track, speed readout, and ETA.
 
-![Active Download & Progress](image_2.png)
+![Active Download & Progress](screenshot/image_2.png)
 
 ---
 
